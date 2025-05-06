@@ -18,7 +18,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('../images/pokemon.jpg');
+  background-image: url('images/pokemon.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
