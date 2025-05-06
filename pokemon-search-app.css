@@ -111,6 +111,15 @@ body {
   gap: 2rem;
 }
 
+@media (max-width: 720px) {
+  .pokedex {
+    width: 400px;
+  }
+  .pokemons-container{
+    flex-direction: column;
+  }
+}
+
 .pokemon-card {
   display: flex;
   flex-direction: column;

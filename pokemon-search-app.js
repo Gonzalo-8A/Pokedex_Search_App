@@ -40,9 +40,6 @@ const renderPokemon = async (pokemon, cardIndex) => {
       statElement.textContent = statValue;
     }
   });
-
-
-
 };
 
 const getPokemon = async (input, cardIndex) => {
